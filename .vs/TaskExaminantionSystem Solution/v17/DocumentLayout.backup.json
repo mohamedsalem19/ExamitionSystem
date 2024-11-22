@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|d:\\dot net\\jsb.net\\project\\taskexaminantionsystem solution\\taskexaminantionsystem\\data\\repository\\grepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|solutionrelative:taskexaminantionsystem\\data\\repository\\grepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|d:\\dot net\\jsb.net\\project\\taskexaminantionsystem solution\\taskexaminantionsystem\\data\\repository\\igrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|solutionrelative:taskexaminantionsystem\\data\\repository\\igrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|d:\\dot net\\jsb.net\\project\\taskexaminantionsystem solution\\taskexaminantionsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|solutionrelative:taskexaminantionsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|d:\\dot net\\jsb.net\\project\\taskexaminantionsystem solution\\taskexaminantionsystem\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|solutionrelative:taskexaminantionsystem\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|d:\\dot net\\jsb.net\\project\\taskexaminantionsystem solution\\taskexaminantionsystem\\controllers\\studentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|solutionrelative:taskexaminantionsystem\\controllers\\studentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|d:\\dot net\\jsb.net\\project\\taskexaminantionsystem solution\\taskexaminantionsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|solutionrelative:taskexaminantionsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|d:\\dot net\\jsb.net\\project\\taskexaminantionsystem solution\\taskexaminantionsystem\\middleware\\globalerrormedlwarehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8400A248-51AF-403E-8CDA-3E262D560030}|TaskExaminantionSystem\\TaskExaminantionSystem.csproj|solutionrelative:taskexaminantionsystem\\middleware\\globalerrormedlwarehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGRepository.cs",
+              "DocumentMoniker": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\Data\\Repository\\IGRepository.cs",
+              "RelativeDocumentMoniker": "TaskExaminantionSystem\\Data\\Repository\\IGRepository.cs",
+              "ToolTip": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\Data\\Repository\\IGRepository.cs",
+              "RelativeToolTip": "TaskExaminantionSystem\\Data\\Repository\\IGRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:48:34.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GRepository.cs",
+              "DocumentMoniker": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\Data\\Repository\\GRepository.cs",
+              "RelativeDocumentMoniker": "TaskExaminantionSystem\\Data\\Repository\\GRepository.cs",
+              "ToolTip": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\Data\\Repository\\GRepository.cs",
+              "RelativeToolTip": "TaskExaminantionSystem\\Data\\Repository\\GRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:48:32.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "TaskExaminantionSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "TaskExaminantionSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:48:26.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "TaskExaminantionSystem\\Controllers\\InstructorController.cs",
+              "ToolTip": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "TaskExaminantionSystem\\Controllers\\InstructorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:44:52.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentCourseController.cs",
+              "DocumentMoniker": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\Controllers\\StudentCourseController.cs",
+              "RelativeDocumentMoniker": "TaskExaminantionSystem\\Controllers\\StudentCourseController.cs",
+              "ToolTip": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\Controllers\\StudentCourseController.cs",
+              "RelativeToolTip": "TaskExaminantionSystem\\Controllers\\StudentCourseController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:40:06.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalErrorMedlwareHandler.cs",
+              "DocumentMoniker": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\MiddleWare\\GlobalErrorMedlwareHandler.cs",
+              "RelativeDocumentMoniker": "TaskExaminantionSystem\\MiddleWare\\GlobalErrorMedlwareHandler.cs",
+              "ToolTip": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\MiddleWare\\GlobalErrorMedlwareHandler.cs",
+              "RelativeToolTip": "TaskExaminantionSystem\\MiddleWare\\GlobalErrorMedlwareHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:02:45.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "TaskExaminantionSystem\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\dot net\\JSB.Net\\Project\\TaskExaminantionSystem Solution\\TaskExaminantionSystem\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "TaskExaminantionSystem\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:56:05.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
